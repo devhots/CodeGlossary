@@ -26,9 +26,11 @@ Each terminology should have two types of explanations:
 
 Provide a concise definition of the term in around 600-800 characters. Be clear and straightforward while highlighting its significance.
 
-### Explain Like I'm Five
+### Explaining like you're five
 
 Break down the term as if explaining to a child. Use simple language, analogies, and examples that a 5-year-old could understand (in 500-600 character).
+
+> Note : You can take a example of [Agile Methodology](/Glossary/A/agile-methodology.md)
 
 ## 5. Update Table of Contents
 
