@@ -11,40 +11,52 @@ Your source for clear explanations of programming terms. Explore a curated colle
 ## A
 
 - [Agile Methodology](/Glossary/A/agile-methodology.md)
+- [APIs](/Glossary/A/APIs.md)
+
 
 ## B
 
+- [Browser Compatibility](/Glossary/B/browsesr_compatibility.md)
 - [Bug](/Glossary/B/bug.md)
 
 ## C
 
 - [Compiler](/Glossary/C/compiler.md)
+- [Component Based UI Development](/Glossary/C/component_based_ui_development.md)
 
 ## D
 
+- [Data Security](/Glossary/D/data_security.md)
 - [Debugging](/Glossary/D/debugging.md)
 
 ## E
 
+- [Event Handling](/Glossary/E/event_handling.md)
 - [Exception](/Glossary/E/exception.md)
 
 ## F
 
 - [Function](/Glossary/F/function.md)
+- [Functional Programming In Javascript](/Glossary/F/functional_programming_in_javascript.md)
 
 ## G
 
 - [Git](/Glossary/G/git.md)
+- [Google Analytics Intigrations](/Glossary/G/google_analytics_intigrations.md)
 
 ## H
 
 - [HTML](/Glossary/H/html.md)
+- [HTTP and HTTPS](/Glossary/H/http_and_https.md)
 
 ## I
 
+- [Interactive Web Design](/Glossary/I/interactive_web_design.md)
 - [Interface](/Glossary/I/interface.md)
 
 ## J
+
+- [JSON](/Glossary/I/json.md)
 
 ## K
 
@@ -57,6 +69,8 @@ Your source for clear explanations of programming terms. Explore a curated colle
 ## O
 
 ## P
+
+- [Progressive Web Apps(PWA)](progressive_web_apps.md)
 
 ## Q
 
