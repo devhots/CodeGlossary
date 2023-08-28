@@ -16,7 +16,7 @@ Your source for clear explanations of programming terms. Explore a curated colle
 
 ## B
 
-- [Browser Compatibility](/Glossary/B/browsesr_compatibility.md)
+- [Browser Compatibility](/Glossary/B/browser_compatibility.md)
 - [Bug](/Glossary/B/bug.md)
 
 ## C
@@ -56,7 +56,7 @@ Your source for clear explanations of programming terms. Explore a curated colle
 
 ## J
 
-- [JSON](/Glossary/I/json.md)
+- [JSON](/Glossary/J/json.md)
 
 ## K
 
