@@ -13,10 +13,11 @@ Your source for clear explanations of programming terms. Explore a curated colle
 - [Agile Methodology](/Glossary/A/agile-methodology.md)
 - [APIs](/Glossary/A/APIs.md)
 
+
 ## B
 
-- [Bug](/Glossary/B/bug.md)
 - [Browser Compatibility](/Glossary/B/browsesr_compatibility.md)
+- [Bug](/Glossary/B/bug.md)
 
 ## C
 
@@ -25,13 +26,13 @@ Your source for clear explanations of programming terms. Explore a curated colle
 
 ## D
 
-- [Debugging](/Glossary/D/debugging.md)
 - [Data Security](/Glossary/D/data_security.md)
+- [Debugging](/Glossary/D/debugging.md)
 
 ## E
 
-- [Exception](/Glossary/E/exception.md)
 - [Event Handling](/Glossary/E/event_handling.md)
+- [Exception](/Glossary/E/exception.md)
 
 ## F
 
@@ -50,8 +51,8 @@ Your source for clear explanations of programming terms. Explore a curated colle
 
 ## I
 
-- [Interface](/Glossary/I/interface.md)
 - [Interactive Web Design](/Glossary/I/interactive_web_design.md)
+- [Interface](/Glossary/I/interface.md)
 
 ## J
 
@@ -86,3 +87,7 @@ Your source for clear explanations of programming terms. Explore a curated colle
 ## W
 
 ## X
+
+## Y
+
+## Z
