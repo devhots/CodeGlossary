@@ -13,6 +13,7 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 ## A
 
 - [Agile Methodology](/Glossary/A/agile-methodology.md)
+- [Algorithm](/Glossary/A/algorithm.md)
 - [APIs](/Glossary/A/APIs.md)
 
 
