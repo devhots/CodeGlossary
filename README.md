@@ -16,7 +16,6 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 - [Algorithm](/Glossary/A/algorithm.md)
 - [APIs](/Glossary/A/APIs.md)
 
-
 ## B
 
 - [Browser Compatibility](/Glossary/B/browser_compatibility.md)
@@ -62,6 +61,8 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 - [JSON](/Glossary/J/json.md)
 
 ## K
+
+- [Keyboard Accessibility](/Glossary/K/keyboard-accessibility.md.md)
 
 ## L
 
