@@ -72,7 +72,7 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 
 ## P
 
-- [Progressive Web Apps(PWA)](progressive_web_apps.md)
+- [Progressive Web Apps(PWA)](/Glossary/P/progressive_web_apps.md)
 
 ## Q
 
