@@ -62,7 +62,7 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 
 ## K
 
-- [Keyboard Accessibility](/Glossary/K/keyboard-accessibility.md.md)
+- [Keyboard Accessibility](/Glossary/K/keyboard-accessibility.md)
 
 ## L
 
