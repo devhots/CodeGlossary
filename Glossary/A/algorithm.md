@@ -1,6 +1,6 @@
 # Algorithm
 
-An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines. In simple terms it is a step-by-step set of instructions to solve a problem or perform a task.
+An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step-by-step in either hardware or software-based routines. In simple terms it is a step-by-step set of instructions to solve a problem or perform a task.
 
 Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning), achieving automation eventually. 
 
