@@ -82,6 +82,8 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 
 ## S
 
+- [Standard streams](/Glossary/S/standard_streams.md)
+
 ## T
 
 ## U
