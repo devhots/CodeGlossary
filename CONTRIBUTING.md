@@ -16,7 +16,7 @@ git checkout -b <your-branch-name>
 
 ## 3. Structure and Naming Convention
 
-Our files are structured alphabetically. If your term starts with `A`, for instance, Inside that folder `A`, add a markdown file named in lowercase (e.g., `github-repository.md`).
+Our files are structured alphabetically into folders. If your term starts with `A`, for instance, inside that folder `A`, add a markdown file named in kebab-case (e.g., `github-repository.md`).
 
 ## 4. Dual Explanations
 
