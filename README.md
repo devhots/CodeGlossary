@@ -55,6 +55,7 @@ Before Contributing Check out our [Contribution Guide](/CONTRIBUTING.md).
 
 - [Interactive Web Design](/Glossary/I/interactive_web_design.md)
 - [Interface](/Glossary/I/interface.md)
+- [Internationalization (i18n)](/Glossary/I/internationalization.md)
 
 ## J
 
